@@ -1,0 +1,10 @@
+# SIH26124 Edge Client
+# Bus-side inference + GPS synchronization
+
+# Core
+ultralytics
+opencv-python
+requests
+
+# Testing
+pytest
